@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         println("tjena")
+        
+        NSLog(@"test2");
         // Do any additional setup after loading the view, typically from a nib.
     }
 
