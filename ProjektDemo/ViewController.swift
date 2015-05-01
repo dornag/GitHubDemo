@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         println("tjena")
         
         NSLog(@"test2");
+        NSLog(@"test3");
         // Do any additional setup after loading the view, typically from a nib.
     }
 
